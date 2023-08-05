@@ -1,0 +1,9 @@
+lista_frutas = ["maça" , "banana" , "melancia" , "abacate"]
+lista_frutas.sort()
+print(lista_frutas)
+
+elemento_3 = lista_frutas[2]
+print(elemento_3)
+
+lista_frutas[0] = "jaca"
+print(lista_frutas)
